@@ -1,1 +1,1 @@
-# st-dyo-y-netim-paneli
+# studyo-yonetim-paneli
